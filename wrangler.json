@@ -1,7 +1,6 @@
 {
   "name": "meelio",
   "compatibility_date": "2026-01-27",
-  "routes": [{ "pattern": "app.meelio.io", "custom_domain": true }],
   "assets": {
     "directory": "./apps/web/dist"
   }
